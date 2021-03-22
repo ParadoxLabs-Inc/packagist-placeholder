@@ -1,0 +1,8 @@
+{
+    "name": "paradoxlabs/packagist-placeholder",
+    "type": "project",
+    "description": "Reserving Packagist vendor name",
+    "version": "0.0.1",
+    "homepage": "https://www.paradoxlabs.com",
+    "license": "proprietary"
+}
